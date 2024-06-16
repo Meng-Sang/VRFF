@@ -1,0 +1,6 @@
+.git/
+.idea/
+**/*.pyc
+**/*.pth
+**/*.ckpt
+assets/video/**/*
